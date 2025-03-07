@@ -17,8 +17,8 @@ const Services = () => {
           <div>
             <i className="uil uil-web-grid services_icon"></i>
             <h3 className="services_title">
-              Product <br />
-              Designer
+              Web <br />
+              Development
             </h3>
           </div>
 
@@ -46,7 +46,7 @@ const Services = () => {
                 }}
               ></i>
 
-              <h3 className="services_modal-title">Product Designer</h3>
+              <h3 className="services_modal-title">Web Development</h3>
               <p className="services_modal-description">
                 Service with more than 3 years of experience. Providing quality
                 work to clients and companies.
@@ -89,7 +89,7 @@ const Services = () => {
           <div>
             <i className="uil uil-arrow services_icon"></i>
             <h3 className="services_title">
-              Ui/Ux <br /> Designer
+              Backend <br /> Development
             </h3>
           </div>
 
@@ -117,7 +117,7 @@ const Services = () => {
                 }}
               ></i>
 
-              <h3 className="services_modal-title">Ui/Ux Designer</h3>
+              <h3 className="services_modal-title">Backend Development</h3>
               <p className="services_modal-description">
                 Service with more than 3 years of experience. Providing quality
                 work to clients and companies.
@@ -160,7 +160,7 @@ const Services = () => {
           <div>
             <i className="uil uil-edit services_icon"></i>
             <h3 className="services_title">
-              Visual <br /> Designer
+              Web <br /> Deployment
             </h3>
           </div>
 
@@ -188,7 +188,7 @@ const Services = () => {
                 }}
               ></i>
 
-              <h3 className="services_modal-title">Visual Designer</h3>
+              <h3 className="services_modal-title">Web Depolyment DevOps</h3>
               <p className="services_modal-description">
                 Service with more than 3 years of experience. Providing quality
                 work to clients and companies.

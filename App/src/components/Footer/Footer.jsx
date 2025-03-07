@@ -14,20 +14,20 @@ const Footer = () => {
             </a>
           </li>
           <li>
-            <a href="#portfolio" className="footer_link">
-              Projects
+            <a href="#skills" className="footer_link">
+              Skills
             </a>
           </li>
           <li>
-            <a href="#testimonials" className="footer_link">
-              Testimonials
+            <a href="#contact" className="footer_link">
+              Contact
             </a>
           </li>
         </ul>
 
         <div className="footer_social">
           <a
-            href="https://www.facebook.com/"
+            href="https://www.instagram.com/jay.bhatt.2k02/"
             className="home_social-icon"
             target="_blank"
           >
@@ -35,7 +35,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.instagram.com/"
+            href="http://www.linkedin.com/in/jay-bhatt-303118173"
             className="home_social-icon"
             target="_blank"
           >
@@ -51,7 +51,7 @@ const Footer = () => {
           </a>
         </div>
 
-        <span className="footer_copy">&#169; Jay Bhatt | All rigths reserved</span>
+        <span className="footer_copy">&#169; 2024 Jay Bhatt | All rigths reserved</span>
       </div>
     </footer>
   );
